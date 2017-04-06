@@ -1,0 +1,22 @@
+"","This.workbook.consists.of.14.sheets..13.for.each.monitored.antigen.coverage,","X2","X3"
+"1"," and 1 regional and global sheet by antigens",NA,NA
+"2",NA,NA,"The 13 sheets for each antigen"
+"3","1","DTP1","First dose of diphtheria toxoid, tetanus toxoid and pertussis vaccine"
+"4","2","DTP3","Third dose of diphtheria toxoid, tetanus toxoid and pertussis vaccine"
+"5","3","HepB_BD","Hepatitis B birth dose estimates are for doses given within 24 hours after birth"
+"6","4","HepB3","Third dose of hepatitis B vaccine"
+"7","5","Hib3","Third dose of Haemophilus influenzae type B vaccine"
+"8","6","IPV1","First dose of inactivated polio vaccine"
+"9","7","PCV3","Third dose of pneumococcal conjugate vaccine"
+"10","8","MCV1","Measles-containing vaccine"
+"11","9","MCV2","Coverage estimates are for the nationally recommended age for the second dose of measles containing vaccine."
+"12","10","Pol3","Third dose of polio vaccine"
+"13","11","RCV1","Rubella containing vaccine (1st dose)"
+"14","12","RotaC","Rotavirus last dose (2nd or 3rd depending on schedule)"
+"15","13","YFV","Yellow fever"
+"16",NA,"Regional_Global_coverage",NA
+"17",NA,NA,"Measles 2nd dose estimates  are provided for the age cohort according to the administration recommended in national immunization schedule. Global and regional coverage estimates are made for vaccinations by the nationally recommended age . "
+"18",NA,"For more information on estimates methods please consult the web site:",NA
+"19",NA,"http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html",NA
+"20",NA,"WHO/UNICEF coverage estimates for 1980-2015, as of 15 July 2016.",NA
+"21",NA,"(Update of 2016/October/20)",NA
