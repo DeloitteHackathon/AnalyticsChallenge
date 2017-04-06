@@ -55,11 +55,11 @@ Our NGO has approached you, a team of independent analytics consultants, to help
 You will be relying on data sets that are open to the public – and are you free to add your own data (if openly available)
 
 ##### NGO data  
-* [Detailed information on NGO’s disbursement from 2000 to 2016](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data/NGO_DataDisbursement.csv)
+* [Detailed information on NGO’s disbursement from 2000 to 2016](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/NGO_DataDisbursement.csv)
 
 
 ##### WHO data  
-* [Coverage by vaccines for each country 1980-2015](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data/WHO_Coverage_estimates.csv)  
+* [Coverage by vaccines for each country 1980-2015](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/WHO_Coverage_estimates.csv)  
 
 
 ##### World bank data
