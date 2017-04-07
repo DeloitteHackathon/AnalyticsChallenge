@@ -3,7 +3,7 @@
 ## NGO data
 
 [**NGO_DataDisbursement.csv**](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/NGO_DataDisbursement.csv)   
-Detailed information on NGO’s disbursement from 2000 to 2016.  
+Detailed information on NGOâ€™s disbursement from 2000 to 2016.  
 The table shows payments made by the NGO for each countries and programmes.         
 
 ---  
@@ -31,4 +31,4 @@ Coverage by vaccines for each country 1980-2015
 **Refugee population by country or territory of origin.xls**    
 
 
- 
+ More Data on [SchoolOfData.ch](http://vaccination.schoolofdata.ch/)
