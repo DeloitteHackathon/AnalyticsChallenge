@@ -46,13 +46,20 @@ Our NGO has approached you, a team of independent analytics consultants, to help
 * Countries: all countries where our NGO has previously funded immunisation programs
 * Immunisations: all types of immunisations that our NGO has previously funded
 
-##### What to deliver
-* Interactive dashboard (or similar) illustrating NGO’s disbursements since 2’000. Depending on your skill and time, this could be a pivot-table-like product and/or a fancy visualisation using a world map. 
-* A final budget allocation recommendation based on generated data insight. This will be presented to the judges and can be supported by a PowerPoint presentation or (ideally) scripts/visualisations/apps that your team built during the Hackathon.
+##### 3 poissible challenges
+1. **Efficiency calculations**
+Help the NGO understand where to invest the available money to save most children's lives. Visualise the data in a meaningful way using bar charts / line charts etc. and make a recommendation to the NGO where their money can be deployed most effectively.
+2. **Investment strategies**
+Identify different investment strategies for the NGO using clustering and highlight the advantages and disadvantages of each option.
+3. **Correlating factors**
+Help the NGO identify correlations between different influencing factors. Therefore,  build different regression models, compare their results and present the NGO with possible correlations and causalities of input factors you identified.
 
 
 ### Data sources
-You will be relying on data sets that are open to the public – and are you free to add your own data (if openly available)
+You will be relying on data sets that are open to the public – and are you free to add your own data (if openly available). In order to get rapidly started, and because you only have couple of hours for this challenge, we've prepared a simplified dataset.
+
+##### Summarized data  
+* [Dataset for the WIT Challenge](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/Dataset%20for%20the%20WIT%20Challenge%20.csv)
 
 ##### NGO data  
 * [Detailed information on NGO’s disbursement from 2000 to 2016](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/NGO_DataDisbursement.csv)
@@ -83,18 +90,18 @@ Ideas for supplementary data:
 ### Hints
 Do not get overwhelmed by the data and remember to enjoy yourselves!
 
-* Half the work is formalizing the problem. You will have to make assumptions. Make sure you explain why you made them.
-* You don’t have much time so keep your analysis simple. You will need to discard many of the variables in the various data sets we give you.
-* We are dealing with a serious topic but after all this is just a hackathon. Try to wow us and your competitors with cool visualisations and solid analysis. (Remember however: the recommendation is the final product of your work.)
-* You can find inspiration from this talk on the importance of visualizing data [here](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+* You don’t have much time to come up with the final presentation, so possibly split the work between team members.
+* Half the work is formalizing the problem. You will have to make assumptions. Make sure you explain why you made them.
+* Check the data you are provided: even though we already did quite some cleaning for you, check whether the data you work with is consistent and exclude data points where needed.
+* We are dealing with a serious topic but after all this is just a fun challenge. Try to wow us and your competitors with cool visualisations and solid analysis. (Remember however: the recommendation is the final product of your work) 
 
 
 ### Presentation
 Each team will present their work in front of a group of judges
 
 ##### Format
-* 5 min pitch
-* 5 min QA
+* 54 min pitch
+* 4 min QA
 
 ##### Content
 * Introduce team
@@ -112,11 +119,9 @@ All code used must be open sourced. It can be existing code, new code written fo
 
 
 ##### Data Visualisation (options available)
-* QlikSense
-* Tableau [(trial available)](https://www.tableau.com/academic/students)
-* GapMinder [(link)](http://www.gapminder.org/)
 * PowerBI [(link)](https://powerbi.microsoft.com/en-us/)
-
+* Tableau [(trial available)](https://www.tableau.com/academic/students)
+et c
 
 ##### Language (options available)
 * R – Shiny, Plotly
@@ -126,7 +131,6 @@ All code used must be open sourced. It can be existing code, new code written fo
   
 
 **Github** to download dataset [(link)](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data)  
-**Slack** to bring communication together so that people can share their insights [(link)](https://deloittehackathon.slack.com/)
 
 
 ### Evaluations
@@ -134,10 +138,7 @@ A number of clearly defined criteria will be used in the evaluation of your work
 
 ##### Analytics
 * Data indentification and integrity
-* Analysis is relevant and results are easily reproducible
-* Code is well-structured and commented
 * Clearly state hypothesis
-* Sophisticated analysis is used where appropriate
 
 ##### Visualisations
 * Direct attention to the key message
@@ -174,16 +175,13 @@ We suggest that you look for the following qualities in your team:
 
 ### Agenda
 
-| **Friday** | |
+| **Morning** | |
 |:------------| ------- |
-| 9h – 10h15 |  Introduction | 
-| 10h30 – open ended |  Start of hackathon  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| 11h – 15h |  Food (ongoing) |
-| 19h – 22h |  Bar opens & Apéro  |
-
-|**Saturday** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
-|:------------| ------- |
-| 10h – 10h30 	| Welcome breakfast 	|
-| 10h30 – 12h 	| Presentation of results |
-| 19h – 22h 	| Wrap up 	|
+| 9h15 – 9h30 |  Team catwalk | 
+| 9h30 – 10h |  Introduction to Challenges |
+| 10h – 10h30 |  Q&A with two Analytics Teams / Coffee break |
+| 10h30 – 11h30 |  Challenges Time!  |
+|**Afternoon** ||
+| 14h45 – 15h45 	| Challenges Time!  	|
+| 15h45 – 16h15 	| Presentation of results |
 
