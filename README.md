@@ -100,7 +100,7 @@ Do not get overwhelmed by the data and remember to enjoy yourselves!
 Each team will present their work in front of a group of judges
 
 ##### Format
-* 54 min pitch
+* 4 min pitch
 * 4 min QA
 
 ##### Content
@@ -121,7 +121,6 @@ All code used must be open sourced. It can be existing code, new code written fo
 ##### Data Visualisation (options available)
 * PowerBI [(link)](https://powerbi.microsoft.com/en-us/)
 * Tableau [(trial available)](https://www.tableau.com/academic/students)
-et c
 
 ##### Language (options available)
 * R – Shiny, Plotly
