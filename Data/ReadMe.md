@@ -1,5 +1,12 @@
 # Data
 
+## Summarized dataset
+
+We've created a simplified dataset for you to get started with this challenge. 
+[**Dataset for the WIT Challenge.csv**](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/Dataset%20for%20the%20WIT%20Challenge%20.csv)         
+
+---  
+
 ## NGO data
 
 [**NGO_DataDisbursement.csv**](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/NGO_DataDisbursement.csv)   
