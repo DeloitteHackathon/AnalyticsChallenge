@@ -162,11 +162,10 @@ A number of clearly defined criteria will be used in the evaluation of your work
 ### Teams  
 Good collaboration within the team will be key success factor. 
 
-Each participant will be part of a team of 2-4 people.
+Each participant will be part of a team of 3-5 people.
 People are free to team up as they wish (we recommend a good mix of skillsets in the same team: technical, business and presentation skills). 
 
 We suggest that you look for the following qualities in your team:
-* Experience building small apps
 * Experience with data visualisation
 * Experience with statistics/machine learning
 * Experience with business presentations/pitches
