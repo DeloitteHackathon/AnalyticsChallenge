@@ -159,7 +159,7 @@ We suggest that you look for the following qualities in your team:
 
 
 ### Agenda
-|**Challenge time** ||
+|**Challenge time** |
 | 11h00 – 11h20 	| Introduction to Challenges and Questions|
 | 11h20 – 12h20 	| Work on the Challenges in Teams |
 | 12h20 – 12h45 	| Presentation of the Results: 2 min Pitch and 1 min Feedback per Team |
