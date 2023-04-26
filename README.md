@@ -3,7 +3,7 @@
 ## Situation
 
 ### Our NGO
-Our NGO supports vaccinations that save millions of children’s lives each year – but many more still need immunisations.
+Our NGO supports vaccinations that save millions of children’s lives each year as a part of reaching their ESG targets.
 
 ##### Context
 A non-governmental organisation (NGO) that funds vaccinations for children in lower income regions.
@@ -38,25 +38,16 @@ Use cutting-edge analytics to come up with a strategy that ensures funds for vac
 ##### Challenge description
 
 Each year, our NGO has to allocate its budget across immunisation types and countries. This allocation of funds plays a crucial role in determining how effective the immunisation initiative is (i.e., how many lives are saved as a result of it).
-Our NGO has approached you, a team of independent analytics consultants, to help them plan their investments for the next 5 years. They are looking for a recommendation for how much to invest in what immunisations and what countries. Your model should depend on the following parameters: 
+Our NGO has approached you, a team of independent analytics consultants, to help them plan their investments for the next 5 years. They are looking for a recommendation for how much to invest in what immunisations and what countries.
 
-* Objective: save as many children‘s (< age 10) lives as possible  
-* Budget: USD 1,000,000,000 (1 billion) per year
-* Time horizon: 5 years
-* Countries: all countries where our NGO has previously funded immunisation programs
-* Immunisations: all types of immunisations that our NGO has previously funded
+##### The challenge
+**Insightful visualisation**
+Help the NGO understand where to invest the available money to save most children's lives. Visualise the data in a meaningful way using bar charts / line charts /scatter plot etc. and make a recommendation to the NGO where their money can be deployed most effectively.
 
-##### 3 poissible challenges
-1. **Efficiency calculations**
-Help the NGO understand where to invest the available money to save most children's lives. Visualise the data in a meaningful way using bar charts / line charts etc. and make a recommendation to the NGO where their money can be deployed most effectively.
-2. **Investment strategies**
-Identify different investment strategies for the NGO using clustering and highlight the advantages and disadvantages of each option.
-3. **Correlating factors**
-Help the NGO identify correlations between different influencing factors. Therefore,  build different regression models, compare their results and present the NGO with possible correlations and causalities of input factors you identified.
 
 
 ### Data sources
-You will be relying on data sets that are open to the public – and are you free to add your own data (if openly available). In order to get rapidly started, and because you only have couple of hours for this challenge, we've prepared a simplified dataset.
+You will be relying on data sets that are open to the public – and are you free to add your own data (if openly available). In order to get rapidly started, and because you have very limited time for this challenge, we've prepared a simplified dataset.
 
 ##### Summarized data  
 * [Dataset for the WIT Challenge](https://github.com/DeloitteHackathon/AnalyticsChallenge/blob/master/Data/Dataset%20for%20the%20WIT%20Challenge%20.csv)
@@ -100,14 +91,13 @@ Do not get overwhelmed by the data and remember to enjoy yourselves!
 Each team will present their work in front of a group of judges
 
 ##### Format
-* 4 min pitch
-* 4 min QA
+* 1 min pitch
+* 1 min Feedback
 
 ##### Content
 * Introduce team
 * Problem Statement
 * Presentation of solution
-* Demo
 
 
 
@@ -136,22 +126,19 @@ All code used must be open sourced. It can be existing code, new code written fo
 A number of clearly defined criteria will be used in the evaluation of your work. Each team’s work will be evaluated as a whole.
 
 ##### Analytics
-* Data indentification and integrity
 * Clearly state hypothesis
+* Data indentification and integrity
 
 ##### Visualisations
 * Direct attention to the key message
-* Appropriate chart type
-* Accurate units of measurement
-* Keep it clear
+* Appropriate chart type with accurate units of measurement
 * Visuals are appealing
 
 ##### Presentation
-* Provides clear and well-founded recommendations
-* Solves the initial business problem with actionable recommendations
-* Is well-structured
+* Provides clear, data driven and actionable recommendations for the initial business problem
 * Tells a compelling story
-* Is within the time limit
+* Is well-structured and within the time limit
+
 
 
 
@@ -162,7 +149,7 @@ A number of clearly defined criteria will be used in the evaluation of your work
 ### Teams  
 Good collaboration within the team will be key success factor. 
 
-Each participant will be part of a team of 3-5 people.
+Each participant will be part of a team of 3-4 people.
 People are free to team up as they wish (we recommend a good mix of skillsets in the same team: technical, business and presentation skills). 
 
 We suggest that you look for the following qualities in your team:
@@ -172,14 +159,7 @@ We suggest that you look for the following qualities in your team:
 
 
 ### Agenda
-
-| **Morning** | |
-|:------------| ------- |
-| 9h15 – 9h30 |  Team catwalk | 
-| 9h30 – 10h |  Introduction to Challenges |
-| 10h – 10h30 |  Q&A with two Analytics Teams / Coffee break |
-| 10h30 – 11h30 |  Challenges Time!  |
-|**Afternoon** ||
-| 14h45 – 15h45 	| Challenges Time!  	|
-| 15h45 – 16h15 	| Presentation of results |
-
+|**Challenge time** ||
+| 11h00 – 11h20 	| Introduction to Challenges and Questions|
+| 11h20 – 12h20 	| Work on the Challenges in Teams |
+| 12h20 – 12h45 	| Presentation of the Results: 2 min Pitch and 1 min Feedback per Team |
